@@ -1,0 +1,7 @@
+path: D:\Учёба Магистратура\Основы глубокого обучения\Глубокое обучение Влад\Laba7
+train: images/train
+val: images/val
+
+
+nc: 1
+names: ['dog']
